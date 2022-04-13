@@ -11,5 +11,5 @@ if (cold) {
 
 console.log("Now you're ready to go outside!");
 
-node conditionals.js
+
 
